@@ -1,0 +1,3 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/etec-programacion-iv/first-approach-josivilches/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/etec-programacion-iv/first-approach-josivilches/tree/main)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/fa2bce4cbc2cfb987efc/test_coverage)](https://codeclimate.com/github/etec-programacion-iv/first-approach-josivilches/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/fa2bce4cbc2cfb987efc/maintainability)](https://codeclimate.com/github/etec-programacion-iv/first-approach-josivilches/maintainability)
